@@ -36,11 +36,11 @@ I'm currently learning cybersecurity, programming and different technologies whi
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=SyntaxCrash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Kaezuria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://streak-stats.demolab.com/?user=SyntaxCrash&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kaezuria&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SyntaxCrash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kaezuria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -48,6 +48,6 @@ I'm currently learning cybersecurity, programming and different technologies whi
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=SyntaxCrash&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Kaezuria&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
