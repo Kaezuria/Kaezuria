@@ -24,12 +24,12 @@ I'm currently learning cybersecurity, programming and different technologies whi
 # 🌸 Anime Corner:
 
 <p align="center">
-  <img src="./marin.jpg" width="500" alt="Marin Kitagawa">
+  <img src="./Tanya.jpg" width="500" alt="Tanya the Evil">
 </p>
 
 <p align="center">
-  <b>🌸 Marin Kitagawa 🌸</b><br>
-  Anime • Romance • Cosplay
+  <b>😈 Tanya the Evil 😈</b><br>
+  Military • Strategy • War
 </p>
 
 ---
