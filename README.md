@@ -26,14 +26,6 @@ High-school student learning **cybersecurity**, programming and game development
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white)
 
-## 🎮 Projects
-
-| Project | Description | Main technologies |
-| --- | --- | --- |
-| [Littles-games](https://github.com/Kaezuria/Littles-games) | Small games and programming experiments | Python, C++ |
-| [Raycaster-Run](https://github.com/Kaezuria/Raycaster-Run) | A raycasting game project | C++ |
-| [My project](https://github.com/Kaezuria/My-project) | Unity game development experiments | Unity, C# |
-
 ## 📊 GitHub activity
 
 <p align="center">
