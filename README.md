@@ -37,17 +37,6 @@ High-school student learning **cybersecurity**, programming and game development
   <img src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor">
 </p>
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Kaezuria's GitHub stats">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaezuria&theme=dark&hide_border=true" alt="GitHub streak">
-</p>
-
 ## 🌸 Anime corner
 
 <p align="center">
@@ -57,6 +46,17 @@ High-school student learning **cybersecurity**, programming and game development
 <p align="center">
   <b>😈 Tanya the Evil 😈</b><br>
   Military • Strategy • War
+</p>
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Kaezuria's GitHub stats">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kaezuria&theme=dark&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
